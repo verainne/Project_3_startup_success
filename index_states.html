@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #controls {
+      text-align: center;
+      margin: 10px 0;
+    }
+
+    #map {
+      height: 600px;
+      width: 100%;
+      margin: 10px auto;
+      border: 1px solid #ddd;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Dynamic Map: Funding and Acquisition</h1>
+  <div id="controls">
+    <label for="mapType">Select Map Type: </label>
+    <select id="mapType">
+      <option value="funding">Average Funding</option>
+      <option value="acquisition">Acquisition Rate</option>
+    </select>
+  </div>
+  <div id="map"></div>
+  <script src="logic.js"></script>
+</body>
+</html>
