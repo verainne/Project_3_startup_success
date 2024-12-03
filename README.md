@@ -31,7 +31,12 @@ Other Sources
         ----- insure selected categories match the coordinates "selectedCategories.some"
         ----- missing values fix "if (!stateFunding[stateCode])" & " if (!isNaN(funding)) "
         ----- applying function to all layers of project "onEachFeature: function (feature, layer) ... "
-        ----- parsing data from database 
+        ----- parsing data from database
+        ----- help with implementing heatmap code in zipcode_analysis2.js
+        ----- help with visual customization in startup_charts.js
   7) Seaborn Heatmap for Correlations ----- https://seaborn.pydata.org/generated/seaborn.heatmap.html
   8) Stack Overflow and Chat GPT for Plot Aesthetics (grey scale & black backgrounds)  ----- https://stackoverflow.com/questions/62607663/black-white-gray-bar-charts-in-python
   9) Data cleaning utilized from machine learning project -----https://github.com/sumitjhaleriya/Startup-Success-Prediction-using-Machine-Learning/blob/main/startup-success-prediction-precision-recall-94.ipynb
+  10) Presentation slides template ----- https://slidechef.net/templates/free-google-slides-apple-template/
+  11) Startup statistics ----- https://www.upsilonit.com/blog/startup-success-and-failure-rate, https://www.embroker.com/blog/startup-statistics/
+  12) Icon PNG in Income Distribution map: https://png.pngtree.com/png-vector/20220517/ourmid/pngtree-blank-round-sticker-template-png-image_4684569.png
