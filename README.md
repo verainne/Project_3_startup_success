@@ -2,9 +2,7 @@
 
 Overview
 
-  This project aims to analyze startup success and funding patterns in the U.S., uncovering key factors that influence outcomes such as acquisition, funding levels, and geographic clustering. By integrating startup     
-  data with detailed ZIP code-level demographics and infrastructure data, we will explore how local economic and geographic conditions shape startup success. Through interactive visualizations, we will enable users to 
-  dive into the data and gain actionable insights, catering to entrepreneurs, investors, and policymakers.
+  This project aims to analyze startup success and funding patterns in the U.S., uncovering key factors that influence outcomes such as acquisition, funding levels, and geographic clustering. By integrating startup data with detailed ZIP code-level demographics and infrastructure data, we will explore how local economic and geographic conditions shape startup success. Through interactive visualizations, we will enable users to dive into the data and gain actionable insights, catering to entrepreneurs, investors, and policymakers. 
 
 
 
@@ -19,7 +17,7 @@ Presentation
 
 Code Location
 
-  Individual Code Contributions are located in individual branches. Main HTML/ JS with Kelly and Philip's code are located in Kelly's branch. 
+  Individual Notebooks used for presentation visualizations are located in individual branches. Main HTML/JS and CSS with Kelly and Philip's interactive visulaizations are located in Kelly's branch.
 
 
   Data Sources
@@ -27,6 +25,9 @@ Code Location
   1) https://www.kaggle.com/datasets/manishkc06/startup-success-prediction
   2) https://www.kaggle.com/datasets/erdi28/zip-codes-demographics
 
+Data Storage
+
+  Data Housed in MondoDB 
 
 
 Other Sources
