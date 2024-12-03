@@ -17,12 +17,22 @@
     <!-- D3 library -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
 
+    <!-- Include TopoJSON -->
+    <script src="https://unpkg.com/topojson-client@3"></script>
+
     <!-- Marker cluster JavaScript -->
     <script src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
 
-     <!-- Marker cluster CSS -->
-     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
-     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+    <!-- Marker cluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+
+    <!-- Heatmap Plugin -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.heat/dist/leaflet-heat.css"/>
+    <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
     <!-- leaflet-choropleth JavaScript -->
     <!-- <script type="text/javascript" src="startupsuccess_kelly.js"></script> -->
@@ -30,20 +40,46 @@
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="/static/css/style.css">
 
+    <!-- Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+
   </head>
   <body>
-    <h1>Dynamic Map: Funding and Acquisition</h1>
-    <div id="controls">
-      <label for="mapType">Select Map Type: </label>
-      <select id="mapType">
-        <option value="funding">Average Funding</option>
-        <option value="acquisition">Acquisition Rate</option>
-      </select>
+    <h1 class="large_text">Dynamic map: funding and acquisition.</h1>
+    <h2 class="subtitle">View which states received the most funding and which had the highest acquisition rates.</h2><br><br>
+
+    <!-- The div to insert our map -->
+    <div class="zoom-on-hover">
+      <div id="map"></div>
     </div>
 
-    <!-- Filter Controls -->
+    <div class="button-container">
+      <div class="button-div">
+        <button id="fundingButton">Average Funding</button>
+      </div>
+      <div class="button-div">
+        <button id="acquisitionButton">Acquisition Rate</button>
+      </div>
+    </div><br>
+
+    <h1 class="large_text">Income distribution in the U.S.</h1>
+    <h2 class="subtitle">Scroll to view businesses in each city, and income and funding levels.</h2><br><br>
+    
+    <div class="zoom-on-hover">
+      <div id="map2"></div>
+    </div>
+
+    <h1 class="large_text">Explore startups of different categories.</h1>
+    <h2 class="subtitle">Discover which were acquired and how much funding they received.</h2><br><br>
+
+    <div class="zoom-on-hover">
+      <div id="map3"></div>
+    </div>
+
+      <!-- Filter Controls -->
     <div id="filtercontrols">
-      <h3>Filter by Category</h3>
+      <h3 class="filter">Filter by category</h3>
+      <h3 class="filter-options">
       <form id="category-filters">
         <label><input type="checkbox" name="category" value="is_web"> Web</label><br>
         <label><input type="checkbox" name="category" value="is_software"> Software</label><br>
@@ -55,17 +91,19 @@
         <label><input type="checkbox" name="category" value="is_biotech"> Biotech</label><br>
         <label><input type="checkbox" name="category" value="is_consulting"> Consulting</label><br>
         <label><input type="checkbox" name="category" value="is_othercategory"> Other</label>
-      </form>
+      </form></h3>
     </div>
 
-    <!-- The div to insert our map -->
-    <div id="map"></div>
-    <div id="map2"></div>
+    <h1 class="large_text">More Visualizations</h1>
+    <h2 class="subtitle">Cities with the highest income: Burlingame, CA; Menlo Park, CA; Palo Alto, CA; Cupertino, CA.</h2>
+    <div id="incomeChart" class="chart-container"></div><br><br>
 
     <!-- Our JavaScript -->
     <script type="text/javascript" src="/static/js/startupsuccess_kelly.js"></script>
     <script type="text/javascript" src="/static/js/markers.js"></script>
-    <script type="text/javascript" src="/static/js/zipcode_analysis.js"></script>
+    <script type="text/javascript" src="/static/js/zipcode_analysis2.js"></script>
+    <script type="text/javascript" src="/static/js/startup_charts.js"></script>
+    
  
     <div id="data-container"></div>
 

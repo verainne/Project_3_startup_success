@@ -1,0 +1,176 @@
+city,name,state_code,latitude,longitude,zip_code,funding_total_usd,category_code,population,density,county_name,number_of_business,adjusted_gross_income,total_income_amount
+Addison,"CREDANT Technologies, Semantra, SensorLogic, Chronicity",TX,32.960431,-96.83026,75001,13162500.0,"software, enterprise, security, consulting",16287,1675.8,Dallas,1639.0,937748.0,946105.0
+Alameda,"Makani Power, Voxify",CA,37.7831775,-122.3086191,94501,19000000.0,"enterprise, cleantech",63588,3079.2,Alameda,1375.0,3786744.0,3834583.0
+Albuquerque,iosil Energy,NM,35.084103000000006,-106.650985,87102,13875001.0,cleantech,19056,1127.5,Bernalillo,1288.0,356860.0,360937.0
+Aliso Viejo,"Enclarity, Gaikai",CA,33.5842816,-117.7306817,92656,25269999.5,"games_video, consulting",53169,2566.6,Orange,1239.0,3027042.0,3062820.0
+Allentown,"International Battery, T-Networks",PA,40.602206,-75.47127900000002,18106,20375000.0,"public_relations, cleantech",6621,321.3,Lehigh,576.0,367268.0,370799.0
+Alpharetta,Visiprise,GA,34.070958000000005,-84.274733,30009,32000000.0,software,19922,844.6,Fulton,719.0,1521241.0,1538270.0
+Altamonte Springs,Hit Systems,FL,28.66677,-81.392794,32714,125000.0,enterprise,37957,1727.0,Seminole,1196.0,1033737.0,1045612.0
+Annapolis,Netcordia,MD,38.97864000000001,-76.492786,21401,13000000.0,network_hosting,39517,765.5,Anne Arundel,2755.0,3207130.0,3243315.0
+Arcadia,Siimpel Corporation,CA,34.1086325,-118.0215818,91006,53818873.0,hardware,32499,1951.6,Los Angeles,1386.0,1985493.0,2014432.0
+Arlington,Social Collective,VA,38.881717,-77.089398,22201,20000.0,web,39240,6602.0,Arlington,1320.0,2994978.0,3040916.0
+Atlanta,"Vitrue, Firethorn, VT Silicon, GlobalCrypto, Vocalocity, Prenova, JouleX",GA,33.756806,-84.392198,"30308, 30350, 30309, 30303, 30305",16311658.714285715,"software, cleantech, enterprise, semiconductor, mobile",37635,5510.6,Fulton,1445.0,2526721.285714286,2558550.714285714
+Austin,"Metreos Corporation, RetailMeNot, Inc., Indeed, Workstreamer, Challenge Games, Conformity, Gowalla, SemiSouth Laboratories, Phurnace Software, MPOWER Mobile, CopperEgg Corporation, Hurricane Party, Movero Technology, BlackLocus, FiveRuns, NextIO, itzbig, BreakingPoint Systems, AlterPoint, Luminary Micro, FameCast, Storspeed, Smooth-Stone, MapMyFitness, Infochimps, OtherInbox, LifeSize, a Division of Logitech",TX,30.2350399,-97.80012990000002,"78729, 78730, 78701, 78703, 78746, 78702, 78731, 78735, 78759",26159900.62962963,"software, hardware, public_relations, web, cleantech, games_video, messaging, enterprise, search, semiconductor, network_hosting, mobile, security, health, analytics",44978,2447.3,Travis,1966.7777777777778,3518375.888888889,3549230.5555555555
+Avon,Natural Cleaners Colorado,CO,39.6350086,-106.5213459,81620,1900000.0,other,10493,35.0,Eagle,594.0,856365.0,868880.0
+Bala Cynwyd,PayParade Pictures,PA,40.012771,-75.239234,19004,200000.0,games_video,9942,1428.3,Montgomery,899.0,967565.0,987112.0
+Bellevue,"SNAPin Software, iConclude, Likewise Software, MessageGate, Smith & Tinker, Napera Networks, Action Engine",WA,47.614018,-122.19655,"98006, 98004, 98005, 98007",20428571.42857143,"software, games_video, network_hosting, mobile",39595,2554.0,King,1988.857142857143,4940618.714285715,4971213.142857143
+Belmont,sezmi,CA,37.524422,-122.265869,94002,78573646.0,games_video,28201,1935.9,San Mateo,696.0,3141438.0,3169390.0
+Berkeley,"IQ Engines, Nordic Windpower, MOG",CA,37.870102,-122.268136,"94710, 94704",27566666.666666668,"photo_video, music, cleantech",25124,11398.1,Alameda,877.0,475863.3333333333,482835.0
+Berwyn,Boomi,PA,40.063476,-75.457492,19312,4900000.0,enterprise,11745,474.0,Chester,488.0,1533854.0,1556637.0
+Bethesda,Intelliworks,MD,39.116333,-77.18130699999998,20814,22250000.0,enterprise,29685,2570.4,Montgomery,2375.0,3668249.0,3728989.0
+Bethlehem,Ciclon Semiconductor Device Corporation,PA,40.60157589999999,-75.3611135,18015,24150000.0,semiconductor,33127,551.5,Northampton,553.0,1354880.0,1366442.0
+Beverly Hills,GeekStatus,CA,34.066697,-118.383367,90211,435953.0,web,9202,5074.4,Los Angeles,1543.0,1837242.0,1860777.0
+Bingham Farms,Speedshape,MI,42.548008,-83.214753,48025,5000000.0,advertising,14886,714.8,Oakland,762.0,1890714.0,1915910.0
+Bothell,"Myrio, Dexterra",WA,47.765758,-122.184304,"98021, 98011",71500000.0,"software, mobile",34359,1499.4,King,732.5,2006812.0,2022007.5
+Boulder,"EventVue, Intela, Socialthing, Collective Intellect, Standing Cloud, OneRiot",CO,40.010492,-105.276843,80302,11124104.5,"network_hosting, advertising, enterprise, public_relations",29593,121.7,Boulder,1850.0,1823521.0,1849520.0
+Brisbane,"SARcode Bioscience, Tercica",CA,37.680766,-122.399971,94005,78000000.0,biotech,4803,404.9,San Mateo,292.0,388414.0,392383.0
+Brooklyn,"drop.io, Loosecubes, MakerBot, Wanderfly, Hot Potato",NY,40.70276,-73.98666800000002,"11211, 11222, 11217, 11201",6360000.0,"web, social, education, travel, hardware",68777,22060.6,Kings,2295.2,5073330.4,5136060.8
+Broomfield,ColdSpark,CO,39.937989,-105.058729,80021,6500000.0,software,35337,825.2,Jefferson,1129.0,1521581.0,1536322.0
+Burlingame,"MeeVee, Origen Therapeutics, Zecter, Brightkite",CA,37.590339,-122.341715,94010,7732500.0,"social, network_hosting, games_video, biotech",43644,1114.7,San Mateo,2105.0,11043368.0,11142064.0
+Calabasas,"Emergent Game Technologies, Fulcrum Microsystems",CA,34.154942600000005,-118.6545471,91302,66233746.5,"games_video, semiconductor",26241,369.1,Los Angeles,1680.0,4442818.0,4504294.0
+Campbell,"ParAccel, Sadra Medical, TeleCIS Wireless, AdexLink, ONStor, Anchor Bay Technologies, Atrua Technologies, Casabi",CA,37.31665260000001,-122.05074,95008,30700000.0,"analytics, advertising, semiconductor, network_hosting, mobile, biotech",48786,2914.3,Santa Clara,2030.0,3910925.0,3944938.0
+Canton,Danotek Motion Technologies,MI,42.350749,-83.44458900000002,48187,42700000.0,cleantech,52304,1117.2,Wayne,1030.0,2250186.0,2273255.0
+Carlsbad,"Aptera, BrightQube, WiLinx",CA,33.133524,-117.254593,"92010, 92009, 92008",17383333.333333332,"automotive, semiconductor, ecommerce",46622,1477.3,San Diego,1169.0,2149396.6666666665,2180238.3333333335
+Carpinteria,AdECN,CA,34.394343,-119.51231,93013,3100000.0,advertising,16515,154.1,Santa Barbara,473.0,768395.0,779770.0
+Centennial,Internet Pawn,CO,39.568064,-104.977831,80112,7228704.0,finance,35144,760.3,Arapahoe,3041.0,2110738.0,2137090.0
+Champaign,Caterva,IL,40.116421,-88.243383,61820,2408500.0,social,38553,2509.1,Champaign,1221.0,483693.0,488319.0
+Chantilly,Fortisphere,VA,38.87804000000001,-77.436151,22031,10000000.0,software,35494,1922.9,Fairfax,1394.0,1990796.0,2013595.0
+Charlottesville,Hotelicopter,VA,38.030823,-78.48158000000002,22902,5000000.0,web,25318,152.0,Albemarle,1128.0,1348819.0,1368507.0
+Chevy Chase,JackBe,MD,38.963492,-77.091025,20815,24500000.0,software,31235,2239.8,Montgomery,960.0,4712141.0,4825438.0
+Chicago,"BridgePort Networks, Open Kernel Labs, CakeStyle, Netgamix Inc, Brickfish, NeuroTherapeutics Pharma, Media Chaperone, FeedBurner, FeeFighters, MyCabbage, walkby, Braintree, Where I've Been",IL,41.875555,-87.624421,"60631, 60647, 60654, 60657, 60601, 60610, 60607, 60606",12597113.0,"software, web, games_video, ecommerce, travel, mobile, biotech",85564,15577.5,Cook,2159.6923076923076,2662444.3846153845,2691511.769230769
+Cincinnati,"Define My Style, StyleZen, Transactiv",OH,39.099909,-84.504243,45202,636666.6666666666,"fashion, advertising, web",15293,2216.7,Hamilton,2077.0,1176027.0,1190270.0
+Cleveland,Five Star Technologies,OH,41.505161,-81.693445,44131,13222860.0,other,20650,507.2,Cuyahoga,1266.0,1038236.0,1049003.0
+College Park,Zymetis,MD,38.988766,-76.940952,20742,2257464.0,biotech,37168,1634.0,Prince George's,610.0,697084.0,703832.0
+Columbus,Dormzy,OH,39.96226,-83.00070600000002,43207,250000.0,ecommerce,46038,768.8,Franklin,752.0,911329.0,918275.0
+Conshohocken,ShopRunner,PA,40.0708709,-75.302716,19428,75000000.0,ecommerce,20128,1063.8,Montgomery,1172.0,1069914.0,1082926.0
+Cupertino,"Solidcore Systems, ViVu, Parascale, Neterion, Cloud.com, Blue Lane Technologies, XtremIO, ArcSight",CA,37.320309,-122.05004,95014,16395500.0,"software, public_relations, messaging, enterprise, network_hosting",62185,965.8,Santa Clara,1653.0,8095008.0,8145254.0
+Dallas,"Texert, SoftLayer",TX,32.9583632,-96.8215658,"75244, 75001",16500000.0,"software, network_hosting",16287,1675.8,Dallas,1400.5,937307.0,947461.5
+Denver,"Stratavia, mSnap, Photobucket",CO,39.74627279999999,-104.9911572,"80205, 80202",16457552.0,"software, mobile, web",33805,5660.6,Denver,2280.6666666666665,1820906.3333333333,1841186.6666666667
+Dulles,Anystream,VA,39.035298,-77.430125,20166,59000000.0,software,13148,186.7,Loudoun,1596.0,661927.0,668231.0
+Duluth,Biofisica,GA,34.062588,-84.16923,30097,7300000.0,biotech,45646,749.2,Fulton,1854.0,3947708.0,3989246.0
+Durham,"eMinor, EvoApp, Hatteras Networks",NC,36.002893,-78.904075,"27713, 27701",14784064.666666666,"software, analytics",55627,1756.1,Durham,1022.0,1328040.0,1347881.6666666667
+El Segundo,"TelASIC Communications, Sometrics",CA,33.923916,-118.39665,90245,15775000.0,"games_video, public_relations",17243,1244.9,Los Angeles,1645.0,1630169.0,1647581.0
+Emeryville,"VirtuOz, Quantivo",CA,37.782714,-122.39358,94608,24082000.0,"enterprise, analytics",33755,4736.3,Alameda,1143.0,1694690.0,1712297.0
+Englewood,"MX Logic, ZettaCore",CO,39.540323,-104.857271,80112,12500000.0,"semiconductor, security",35144,760.3,Arapahoe,3041.0,2110738.0,2137090.0
+Evanston,Amadesa,IL,42.055849,-87.694664,60201,12800000.0,software,43452,3719.0,Cook,1433.0,3070813.0,3121466.0
+Foster City,"Visible Path, Etology, Encentuate, Right90",CA,37.55818,-122.276454,94404,16675000.0,"software, web",36571,3246.0,San Mateo,948.0,4023341.0,4055424.0
+Frederick,Cerona Networks,MD,39.414219,-77.410927,21703,2600000.0,public_relations,39438,475.4,Frederick,723.0,1507322.0,1522057.0
+Fremont,"Mendocino Software, Redwood Systems, Silicon Clocks, HipLogic, GrandCentral, Oorja Protonics, Redwood Systems",CA,37.54827,-121.988572,94538,21610000.0,"software, mobile, semiconductor, cleantech",66474,1552.0,Alameda,2574.0,3719473.0,3741492.0
+Glendale,MyShape,CA,34.141876,-118.132377,91203,28000000.0,ecommerce,16557,7282.0,Los Angeles,1142.0,523156.0,529686.0
+Golden Valley,Kardia Health Systems,MN,44.96659,-93.331943,55416,18400000.0,enterprise,34181,1799.0,Hennepin,1630.0,2516091.0,2554623.0
+Greenwood Village,TrenStar,CO,39.616435,-104.879925,80111,10000000.0,software,32122,1138.5,Arapahoe,2829.0,3275188.0,3317483.0
+Henderson,Trooval,NV,35.96544,-115.106579,89052,2387481.0,analytics,57966,1373.4,Clark,1364.0,4407325.0,4450064.0
+Herndon,ZoomSafer,VA,38.969532,-77.385948,20170,3350000.0,mobile,43028,1897.5,Fairfax,1274.0,2136015.0,2160271.0
+Hollywood,"HelpMeRent.com, Help Me Rent Magazine",CA,34.102827000000005,-118.32999,90028,327000.0,real_estate,29887,7639.1,Los Angeles,1473.0,939638.0,953057.0
+Houston,"U.S. Fiduciary, Rudder",TX,29.758938,-95.367697,"77046, 77027",5500000.0,"other, web",19386,3611.9,Harris,1213.5,1492579.0,1508158.5
+Idaho Falls,RFinity,ID,43.493525,-112.040092,83402,4000000.0,mobile,27238,61.5,Bonneville,901.0,750352.0,757518.0
+Indianapolis,"ExactTarget, Vontoo",IN,39.7672093,-86.1580785,"46204, 46250",120200999.5,"software, public_relations",17443,3479.2,Marion,1487.0,682092.5,690257.5
+Irvine,"PayDivvy, Axiom Microdevices, Integrien",CA,33.685697,-117.825982,"92618, 92612",16940180.0,"social, enterprise, semiconductor",54368,2091.3,Orange,2747.3333333333335,3447117.0,3486910.3333333335
+Itasca,Accertify,IL,42.048203,-88.03156899999998,60143,4700000.0,security,11673,646.7,DuPage,707.0,570878.0,577835.0
+Kansas City,Handmark,MO,39.103151,-94.581908,64106,10000000.0,mobile,10830,2599.1,Jackson,556.0,240902.0,243551.0
+Kearneysville,Plethora Technology,WV,39.388156,-77.885552,25430,1000000.0,software,7851,66.0,Jefferson,113.0,265367.0,267724.0
+Kenmore,TrustDegrees,NY,42.961748,-78.870914,14217,11000.0,web,22839,2753.0,Erie,554.0,693963.0,702496.0
+Kirkland,Clearwire,WA,30.6324797,-86.9843446,98033,5700000000.0,mobile,39726,1666.6,King,1713.0,7132093.0,7176170.0
+La Jolla,"Nettle, Ortiva Wireless",CA,32.833501,-117.26162,92037,20250000.0,"mobile, web",37505,1202.1,San Diego,2412.0,5509736.0,5590909.0
+Laguna Niguel,Symwave,CA,33.55327800000001,-117.6779,92677,26200000.0,semiconductor,64608,1516.8,Orange,1583.0,4730567.0,4804322.0
+Lake Oswego,Sabrix,OR,45.413842,-122.725662,97035,13000000.0,software,26593,1765.3,Clackamas,1370.0,1916664.0,1943932.0
+Lancaster,FlyCast,PA,40.03935300000001,-76.307448,17603,2100000.0,mobile,67601,870.4,Lancaster,1361.0,2236190.0,2262361.0
+Larkspur,mFoundry,CA,37.862592,-122.493561,94939,40300000.0,mobile,7274,1190.0,Marin,407.0,1205958.0,1227459.0
+Las Vegas,NSFW Corporation,NV,36.170538,-115.101942,89101,250000.0,news,43572,3127.6,Clark,1225.0,655812.0,659991.0
+Lawrenceville,Nalace Corporation,GA,33.956215,-83.987962,30043,19000.0,ecommerce,88458,1032.6,Gwinnett,1754.0,2591723.0,2622791.0
+Lexington,AwesomeTouch,KY,38.046407,-84.497039,40507,59700.0,software,1907,1709.7,Fayette,634.0,173104.0,174892.0
+Lindon,Footnote,UT,40.3310529,-111.7276347,84042,10000000.0,web,11346,552.5,Utah,487.0,593244.0,599632.0
+Lisle,Univa UD,IL,41.808458,-88.073008,60188,33000000.0,software,42290,1624.6,DuPage,1083.0,1559369.0,1575484.0
+Little Rock,JavaJobs,AR,34.748528,-92.287158,72201,50000.0,software,875,275.7,Pulaski,987.0,85490.0,86796.0
+Long Island City,Songza,NY,40.74731129999999,-73.95491820000002,11101,6700000.0,music,33789,5042.6,Queens,2930.0,2532567.0,2554383.0
+Longmont,Copan Systems,CO,40.138979,-105.124465,80501,68400000.0,network_hosting,43615,1334.6,Boulder,1783.0,1321444.0,1338549.0
+Los Altos,"QSecure, SezWho",CA,37.39628270000001,-122.105531,"94022, 94024",25000000.0,"security, web",24203,1129.6,Santa Clara,660.5,7829285.5,7895901.0
+Los Angeles,"DailyStrength, GetBack, ItsGoinOn, Geodelic Systems, Bevvy, Giiv, HauteLook, nprogress, NextMedium, Contur, HeadCase Humanufacturing, Authenticlick, Clicker, Mail.com Media Corporation, Diversion",CA,34.043948,-118.468204,"90017, 90046, 90036, 90038, 90064, 90015, 90024, 90032, 90049, 90025, 90034, 90039, 90301",8878000.0,"software, web, social, games_video, messaging, search, ecommerce, fashion, mobile",53321,15527.8,Los Angeles,1870.1333333333334,3189342.466666667,3232313.6
+Los Gatos,"TriCipher, Eyeona",CA,37.238916,-121.973718,"95032, 95030",21050000.0,"enterprise, web",27149,561.6,Santa Clara,823.0,4761077.0,4802599.0
+Louisville,"Resonant Vibes, NexGen Storage",KY,38.241467,-85.72451099999998,"80027, 40204",6180000.0,"software, web",34423,1775.1,Jefferson,848.0,1556952.0,1578511.0
+Loveland,Abound Solar,CO,40.397761,-105.07498,80538,510000000.0,cleantech,49879,188.5,Larimer,1236.0,1940039.0,1964582.0
+McLean,"Rollstream, Trust Digital, Jobfox",VA,38.872668,-77.367981,22102,24333333.333333332,"software, mobile, web",27722,869.7,Fairfax,1696.0,4593269.0,4650726.0
+Menlo Park,"Zong, Center'd, PublicEarth, Krugle, Jaxtr, Factery, Cuil, Flock, Roxro Pharma, Intelliden, Syncplicity, iKoa, Devtap, Trinity Biosystems, Gamook, Silver Tail Systems",CA,37.4429885,-122.1624131,94025,20653125.0,"software, analytics, web, games_video, enterprise, search, semiconductor, travel, mobile, biotech",41826,1930.5,San Mateo,1661.0,9412740.0,9502458.0
+Middleton,Sway,WI,43.090756,-89.522805,53562,2000000.0,advertising,28817,357.6,Dane,957.0,1996252.0,2017948.0
+Milpitas,OpVista,CA,37.43841079999999,-121.9240273,95035,43000000.0,software,79769,1373.0,Santa Clara,2077.0,5406471.0,5434730.0
+Minneapolis,Enstratius,MN,44.9773,-93.265469,55311,3500000.0,enterprise,37908,890.9,Hennepin,592.0,2499012.0,2529220.0
+Minnetonka,Jobs2Web,MN,44.912723,-93.499059,55343,5550000.0,web,26472,1328.0,Hennepin,1214.0,1133712.0,1148512.0
+Monterey Park,KOTURA,CA,34.045919,-118.16525,91754,27690547.0,cleantech,33931,2898.7,Los Angeles,1325.0,1186406.0,1201923.0
+Morgan Hill,OfferLounge,CA,26.0524615,-80.1378809,95037,120000.0,public_relations,52321,168.2,Santa Clara,1201.0,3800672.0,3836630.0
+Mountain View,"Matisse Networks, RingCube Technologies, Trovix, Yub, Blue Vector Systems, Hammerhead Systems, NeoEdge Networks, Outright, UpMo, Ardian, Wink, PostPath, Avega Systems, PeerMe, Cast Iron Systems, Zing Systems, Avidia, Cloudmeter, Exaprotect, Wander (f. YongoPal), Meebo, Krillion, Sensory Networks, AdMob, TimeBridge, Skyrider, SearchMe, Clever Sense, Ribbit, HighlightCam, MerchantCircle, Kace networks, Goodmail Systems, Loopt, Nimbula, Jajah, Lexity, LaunchGram, Clearwell Systems, TouristEye, Crossing Automation, Votizen, Reliant Technologies, Kosmix",CA,37.406914,-122.09037,"94041, 94303, 94040, 94043",20377750.0,"software, public_relations, web, mobile, advertising, games_video, enterprise, search, semiconductor, ecommerce, travel, network_hosting, hardware, news, security, biotech",48487,3776.6,Santa Clara,877.7954545454545,3125305.090909091,3143170.2954545454
+NW Atlanta,Zipcar,GA,33.7862629,-84.3877936,30309,60704370.0,transportation,27469,3205.3,Fulton,1836.0,3073547.0,3115639.0
+NY,"Lifestander, 5min Media",NY,40.73901,-73.997259,"10003, 10011",6415500.0,"games_video, web",54447,36777.5,New York,4081.0,7944124.0,8037938.0
+NYC,spotdock,NY,40.730646,-73.986614,10012,600000.0,web,22269,26541.4,New York,2974.0,3258410.0,3291702.0
+Napa,Inertia Beverage Group,CA,38.223032,-122.261642,94558,25500100.0,software,66345,64.1,Napa,1615.0,3655087.0,3710172.0
+Naperville,Cartavi,IL,41.800255,-88.149362,60563,1226270.0,enterprise,38704,1026.0,DuPage,1830.0,2094606.0,2119008.0
+Nashville,"RentStuff.com, StudioNow",TN,36.16223,-86.774353,"37201, 37212",7980707.5,"photo_video, web",20917,2936.8,Davidson,532.5,708650.0,722520.0
+New Hope,"MeetMe, Inc.",PA,40.364273,-74.951278,18938,17100000.0,web,14115,133.3,Bucks,437.0,2002316.0,2027784.0
+New York,"SinglePlatform, Entertainment Media Works, Peer39, Motionbox, Thumbplay, TxVia, ShopWiki, Fondu, Qwiki, TheMarkets, SpiralFrog, Game Trust, Vizibility, Tumblr, Hotlist, Turf Geography Club, Bioenvision, avVenta, ORCA, Inc., Giant Realm, Kluster, Jingle Networks, Visual Revenue, Blip, Savored, TravelMuse, Outside.in, Salesforce Buddy Media, Stickybits, lifeIO, Pinch Media, easy2comply (Dynasec), Exclusively.in, KickApps, Pictela, LiftDNA, Surphace, Storm Exchange, The Huffington Post, DailyBurn, Venmo, WeShow, BestVendor, Right Media, Dispatch, Genesis Networks, WireImage, Triples Media, RightsFlow, Sonar.me, MyNines, Mr. Youth, Next New Networks, Jumo, XGraph, Advaliant, SkillSlate, Panther Express, Tripl, Quigo, Thwapr, BBE, Boonty, B-Side Entertainment, Fashism, SideTour, Lore, Snapette, Image Space Media, SpaBooker, Oyster.com, StyleTrek, Oberon Media, #waywire, Feedtrace, Producteev, SpinTheCam, BuyWithMe, Robotgalaxy, Instinctiv, Correlix, Daylife, GroupMe, Peek & Co, Behance, Socialbomb, Tutorspree, Xtify Inc., Panvidea, TRAFFIQ",NY,40.730646,-73.986614,"10007, 10036, 10011, 10004, 10038, 10003, 10005, 10001, 10119, 10012, 10013, 10154, 10016, 10014, 10010, 10019, 10017, 10173, 10018",13640619.266666668,"finance, travel, mobile, photo_video, software, web, enterprise, fashion, social, advertising, games_video, music, messaging, hospitality, education, ecommerce, network_hosting, analytics, biotech, news",56758,45764.5,New York,4450.3,5622247.811111111,5680886.655555556
+New York City,"Pixable, Hashable, WeHostels",NY,40.730646,-73.986614,"10010, 10018, 10013",3766666.6666666665,"social, mobile, travel",33193,34754.1,New York,5088.666666666667,5183003.0,5229841.333333333
+Newport Beach,Digital Performance,CA,33.63776,-117.855989,92660,4476171.0,advertising,36100,1451.0,Orange,3641.0,5502959.0,5589011.0
+North Hollywood,EQAL,CA,34.172904,-118.37403700000002,91601,6875000.0,web,34786,5094.1,Los Angeles,836.0,1236036.0,1253877.0
+Oakland,Slipstream,CA,37.835676,-122.263548,94609,20000.0,web,24623,5708.8,Alameda,690.0,1307108.0,1323681.0
+Palo Alto,"Doostang, Bling Nation, Neopolitan Networks, Scalent Systems, Transparency Software, Viewdle, Netli, Immunet Corporation, Hyperic, Q-magic, CafeBots, Punch Entertainment, Buysight, Onavo, Milo, Generic Media, Kapow Software, TrustedID, Sharetivity, MyMiniLife, Zimbra, Color Labs Inc., Playdom, PlayerDuel, ShopWell, Qlusters, SnapTell, Waze, Codesion, Mytopia, EchoSign, ScaleIO, GoPollGo, Moonshoot",CA,37.427235,-122.145783,"94304, 94306, 94303, 95128, 94301",13464103.294117646,"software, public_relations, transportation, web, advertising, games_video, enterprise, other, network_hosting, mobile, security, analytics",48487,3473.9,Santa Clara,1040.8823529411766,8598489.44117647,8638385.823529411
+Pasadena,"Cramster, FastSoft, Loud3r, iChange",CA,34.147047,-118.148896,"91105, 91101",5081043.75,"software, health, web",19542,5939.9,Los Angeles,1348.75,1712433.5,1740265.5
+Petaluma,"Dilithium Networks, Teknovus",CA,38.279431,-122.668452,94954,80385000.0,"mobile, semiconductor",38354,238.2,Sonoma,919.0,1773851.0,1797488.0
+Philadelphia,"Invite Media, Avid Radiopharmaceuticals, MobileReactor",PA,39.951311,-75.169522,"10011, 19104, 19103",25358333.333333332,"software, advertising, biotech",52126,30925.5,New York,2491.6666666666665,4264317.333333333,4313165.333333333
+Pittsboro,Biolex Therapeutics,NC,35.72591770000001,-79.17917709999998,27312,162264126.0,biotech,22794,51.5,Chatham,419.0,1177141.0,1191530.0
+Pittsburgh,"Zipano, Bueda, ThermalTherapeuticSystems, Lama Lab",PA,40.441694,-79.990086,"15213, 15218, 15219",1217882.0,"enterprise, advertising, security, medical",28172,4457.8,Allegheny,770.0,425375.0,430268.0
+Plano,Auvitek International,TX,33.068275,-96.711101,75023,9000000.0,semiconductor,48586,2039.3,Collin,910.0,1830447.0,1849228.0
+Playa Vista,WebVisible,CA,33.97279,-118.427578,90094,37000000.0,software,11426,6174.4,Los Angeles,103.0,1018386.0,1032642.0
+Pleasanton,"QuantaLife, Echopass Corporation, Arroyo Video Solutions",CA,39.78373,-100.445882,"94566, 94588",13919060.666666666,"network_hosting, games_video, biotech",45648,867.3,Alameda,1457.6666666666667,4530710.333333333,4571244.666666667
+Plymouth,BridgePoint Medical,MN,45.006515,-93.46651,55441,28200000.0,medical,18242,820.9,Hennepin,937.0,987254.0,1000487.0
+Portland,"Meridian, CrowdCompass, SnapNames, AppFog, Max-Viz",OR,45.520247,-122.674195,"97204, 97209, 97214, 97201, 97224",4975000.0,"enterprise, mobile, network_hosting, hardware",37059,7358.7,Multnomah,1339.0,1087833.2,1103304.8
+Potomac Falls,Summize,VA,39.050108,-77.40082,20165,750000.0,search,33828,1326.3,Loudoun,641.0,2161879.0,2186409.0
+Provo,Tipping Bucket,UT,40.233844,-111.658534,84087,72000.0,enterprise,16133,449.5,Davis,338.0,551490.0,556571.0
+Puyallup,Million Dollar Earth,WA,47.184901,-122.292141,98371,30000.0,advertising,22741,741.8,Pierce,635.0,1084455.0,1093220.0
+Raleigh,"Inlet Technologies, rPath, Oasys Mobile",NC,35.76524000000001,-78.731161,"27518, 27607, 27606",20966666.666666668,"network_hosting, enterprise, software",45499,767.5,Wake,876.6666666666666,1459948.3333333333,1479190.0
+Redmond,"Smilebox, Sampa",WA,47.676378,-122.122155,98052,7655000.0,"photo_video, web",75765,1443.9,King,2393.0,7220400.0,7255916.0
+Redwood City,"TwoFish, Replay Solutions, Amobee, PacketHop, Calibra Medical, Bigfoot Networks, Grouply, Zenprise, Qik, Predictify, Wildfire, a division of Google, Pearl Therapeutics, CubeTree",CA,37.522281,-122.258139,"94065, 94063",37783084.615384616,"software, public_relations, mobile, advertising, enterprise, ecommerce, network_hosting, hardware, biotech",35163,2088.0,San Mateo,1189.2307692307693,1895089.0,1908132.6923076923
+Reston,Defywire,VA,38.958402,-77.357974,20191,10600000.0,mobile,30185,1502.6,Fairfax,939.0,1806081.0,1829522.0
+Richardson,"Sirific Wireless, AppTrigger, Navini Networks, RipCode",TX,32.945353999999995,-96.708874,"75082, 75081",26055000.0,"software, semiconductor, public_relations",36683,1571.4,Dallas,1093.5,1398482.5,1413419.0
+Rye Brook,eBillme,NY,41.019264,-73.683462,10573,23000000.0,ecommerce,41181,2907.8,Westchester,1285.0,2067808.0,2098288.0
+SPOKANE,Pacinian,WA,47.657943,-117.421226,99202,350000.0,hardware,20526,1332.9,Spokane,1127.0,408172.0,412767.0
+Saint Louis,"ITOG, Inc.",MO,38.703764,-90.443832,63043,205000.0,network_hosting,22767,700.6,St. Louis,828.0,744265.0,751861.0
+Saint Paul,Apnex Medical,MN,44.950404,-93.101503,55113,44000000.0,medical,41798,1087.1,Ramsey,1689.0,1731270.0,1750822.0
+Salt Lake City,Inaura,UT,40.767013,-111.890431,84124,8500000.0,other,23552,1178.7,Salt Lake,686.0,1366865.0,1383121.0
+San Bruno,"Planet Metrics, IronPort Systems, YouTube, SocialShield",CA,37.628328,-122.420814,94066,21325000.0,"games_video, hardware, software, cleantech",43846,2793.4,San Mateo,946.0,2318088.0,2335669.0
+San Carlos,Aster Data Systems,CA,37.5068854,-122.2475729,94070,53000000.0,analytics,31477,1985.5,San Mateo,1341.0,4930573.0,4976947.0
+San Diego,"Bandsintown, Plixi, Flud, Veoh, Avaak, Verari Systems, Elevation Pharmaceuticals, Tapioca Mobile, Helicomm, Nirvanix, ID Analytics, Sequoia Communications, ecoATM, Imagine Communications",CA,42.35888,-71.05682,"92121, 92101, 92130, 92128",35176785.78571428,"software, hardware, web, cleantech, games_video, music, enterprise, semiconductor, network_hosting, mobile, biotech",57197,3090.7,San Diego,2630.285714285714,2047995.2857142857,2075640.7142857143
+San Francisco,"Inhale Digital, Pixelpipe, Karma, Elastra, Fotomoto, Appstores.com, Mashery, Carbonetworks, Sportgenic, Lolapps, adBrite, Instagram, MoPub, BookFresh, Singly, Astrid, Aardvark, Fluther, Chomp, Current Media, Involver, Lionside, Yobongo, Crowd Factory, Recurve, Plizy, skyrockit, Wheelz, VoxPop Network Corporation, Metaweb Technologies, DocVerse, Flixster, Wesabe, NuConomy, Flowtown, GoodGuide, DeliveryEdge, Solmentum, Pipewise, Meraki, Canopy Financial, Kyte, PopularMedia, Miyowa, Reddit, Pure Digital Technologies, Optimal, TokBox, Fabkids, Digg, Kongregate, Powerset, Kiptronic, Jambool, Hitpost, Home-Account, kwiry, imeem, RentJuice, Ecast, TripIt, Focus, Socialize, Crowdcast, Storify, Zencoder, CastTV, Sponge, Mogad, Hello Chair, Consorte Media, TwtBks, Vontu, threadsy, Peanut Labs, Loyalty Lab, PicApp, Terracotta, ReTel Technologies, Servio, Dapper, SeeSaw Networks, Yammer, Weatherista, Zinch, Sweepery, Socialcast, Seesmic, Transpond, Bebo, Desk, NewsBasis, EmSense, Giftiki, Applied Identity, WooMe, What They Like, Lookery, Wantful, Simple Star, Songbird, SimpleGeo, 1000memories, Scrapblog, HotPads, DanceJam, SocialMedia.com, Xoopit, Cohuman, about.me, Pulse, Opzi, HipChat, WeAre.Us, Adura Technologies, Topsy Labs, Kima Labs, Whiskey Media, Blue Buzz Network, Flowgram, The Climate Corporation, iSkoot, CoTweet, Causata",CA,37.779281,-122.419236,"94103, 94115, 92606, 94114, 94104, 94110, 94102, 94107, 94111, 94133, 94404, 94105, 94607, 94109, 94108",12930105.879032258,"public_relations, sports, finance, travel, mobile, photo_video, software, real_estate, cleantech, web, enterprise, social, games_video, advertising, music, messaging, automotive, search, ecommerce, network_hosting, analytics, hardware, news",70859,20085.5,San Francisco,2219.8467741935483,3351790.9112903224,3377682.741944355
+San Franciso,Zentact,CA,37.794891,-122.397901,94111,250000.0,network_hosting,4707,5447.6,San Francisco,2524.0,1697975.0,1713693.0
+San Jose,"RPO, 41st Parameter, Wellcore, Infineta Systems, Certify Data Systems, Teranetics, BlueLithium, WiChorus, NeoGuide Systems, Shocking Technologies, Taggstr, Cassatt, SolFocus, Baxano, LogLogic, CypherMax, C2 Microsystems, Broadway Networks",CA,37.404788,-121.940842,"95134, 95138, 95112, 95110, 95128, 95131",40732321.11111111,"software, public_relations, mobile, cleantech, advertising, messaging, enterprise, semiconductor, hardware, security, medical, biotech",58489,3473.9,Santa Clara,852.1666666666666,2181054.722222222,2191485.111111111
+San Mateo,"Fortify Software, Adap.tv, Nearbuy Systems, Provade, GuardianEdge Technologies, Offermatic, Picateers, Adept Cloud, bluepulse, Composite Software, Attributor, Greenplum Software, D2C Games, Smalltown, Bizanga, Etelos, B-hive Networks, Yield Software, TalkPlus, M-Factor, Servo Software, Levanta, EdgeSpring, Aptana",CA,37.560781,-122.284114,"94401, 94403, 94402, 94404",12713593.25,"software, web, advertising, games_video, enterprise, network_hosting, security, analytics",44244,4356.1,San Mateo,1023.875,3646283.625,3677375.4166666665
+San Rafael,"ClairMail, Zep Solar",CA,38.057107,-122.513742,"94903, 94901",22335591.0,"finance, cleantech",42307,1246.7,Marin,1553.0,2697135.0,2748856.5
+Santa Ana,Mophie,CA,33.708708,-117.852069,92705,1000000.0,hardware,47851,1567.5,Orange,2959.0,2881019.0,2925729.0
+Santa Barbara,"SendMeHome.com, Make It Work",CA,34.430786,-119.715074,"93105, 93101",525000.0,"games_video, hardware",31439,3790.5,Santa Barbara,1512.5,1531174.5,1559463.0
+Santa Clara,"QuikCycle, Azuro, Woven Systems, Sentrigo, Plusmo, Attune Systems, Link_A_Media Devices, Accept Software, Mimosa Systems, SkyPilot Networks, Vudu, Atrica, PlaySpan, PANTA Systems, Beceem Communications, OptiMedica, StorSimple, Azaire Networks, BroadLight, Innovative Silicon, Power Analog Microelectronics, Athena Design Systems, Kickfire, AGEIA Technologies, Xelerated, Asempra Technologies",CA,37.354469,-121.990433,"95054, 95051",31040395.153846152,"software, hardware, public_relations, games_video, enterprise, semiconductor, other, network_hosting, mobile, security, biotech",60582,3548.9,Santa Clara,1679.6153846153845,3126028.6153846155,3138928.6153846155
+Santa Monica,"Goodreads, Gradient X, BlockBeacon, EdgeCast Networks, ShoeDazzle, TeleFlip, Docstoc, Generate, ServiceMesh, Republic Project",CA,34.01052,-118.495981,"90291, 90405, 90401, 90404, 60401",17990000.0,"web, games_video, advertising, enterprise, fashion, network_hosting, mobile",27367,4595.6,Will,1492.0,1643615.1,1667004.8
+Scotts Valley,Multigig,CA,35.966068,-115.118671,95066,37891054.0,semiconductor,15265,314.8,Santa Cruz,490.0,1112058.0,1126002.0
+Seattle,"Hidden City Games, Lockdown Networks, Azaleos, Hubspan, Pure Networks, Moprise, GridNetworks, Haute Secure, Dashwire, Kiha Software, Cozi Group, Livemocha, Local Marketers, World Blender, thePlatform, Faves, LookStat, Wavii, Klir Technologies, Pelago, Kashless, Off & Away, Appature, StartupDigest, Thinkfuse, PI Corporation",WA,47.6026054,-122.2848651,"98122, 98103, 98102, 98109, 98121, 98119, 98104, 98101",9364208.884615384,"software, public_relations, web, games_video, enterprise, education, other, ecommerce, travel, network_hosting, mobile, news, security",52210,18290.9,King,1840.0,2044158.3461538462,2059845.6153846155
+Solana Beach,Metaplace,CA,33.020832,-117.077311,90275,9400000.0,games_video,42417,1210.2,Los Angeles,668.0,3678108.0,3740207.0
+South San Francisco,"iCurrent, BioSeek, Limerick BioPharma",CA,37.658313,-122.391032,94080,20669610.0,"biotech, web",66652,2528.6,San Mateo,2087.0,3373458.0,3398448.0
+Sterling,ZipList,VA,39.001619,-77.403201,20166,4500000.0,web,13148,186.7,Loudoun,1596.0,661927.0,668231.0
+Sunnnyvale,FlowCardia,CA,37.396023,-122.03311,94085,30000000.0,biotech,23805,2616.6,Santa Clara,793.0,1915679.0,1922935.0
+Sunnyvale,"Efficient Frontier, NetDevices, Virsto Software, Behavio, LikeList, VoloMedia, Minekey, Azingo, Plaxo, ZManda, Aquest Systems, Mu Dynamics, Schooner Information Technology, VirtualLogix, Mobius Microsystems, FlashSoft, Level 5 Networks, PasswordBank, CloudShield Technologies, BARRX Medical, Cotendo, Paracor Medical",CA,37.4049731,-122.0323525,"94086, 94089, 94085, 94087",21921089.954545453,"software, hardware, web, advertising, enterprise, semiconductor, network_hosting, mobile, medical, biotech",59771,4286.8,Santa Clara,768.8181818181819,2607598.3181818184,2619427.772727273
+Tampa,"Skyway Software, Infinity Box, Persystent Technologies, LeisureLogix",FL,27.951849,-82.456397,"33618, 33609, 33626, 33635",7869665.75,"software, web",29944,1750.1,Hillsborough,971.5,1395062.75,1411292.25
+Tempe,"FetchBack, Andigilog",AZ,33.426418,-111.9396,"85281, 85284",9500000.0,"advertising, semiconductor",66878,1943.9,Maricopa,1621.5,1444320.5,1459464.5
+The Woodlands,DynaPump,TX,30.161661,-95.471256,77380,6000000.0,cleantech,29095,903.8,Montgomery,1962.0,2107931.0,2125999.0
+Thousand Oaks,Nexsan,CA,34.185043,-118.878852,91360,24500000.0,hardware,42984,1080.3,Ventura,1385.0,2205705.0,2236823.0
+Timonium,Bill Me Later,MD,39.436844,-76.61870400000002,21093,100000000.0,web,39817,760.0,Baltimore,1632.0,2791533.0,2829759.0
+Toledo,Classiphix,OH,41.678675,-83.51272800000002,43607,15000.0,ecommerce,20732,1104.9,Lucas,279.0,277963.0,280266.0
+Torrance,DotSpots,CA,33.831671,-118.315766,90501,300000.0,public_relations,43450,2950.9,Los Angeles,1713.0,1483622.0,1499551.0
+Tualatin,Wi-Chi,OR,45.3774456,-122.7569561,97062,7000000.0,semiconductor,28823,783.5,Washington,1083.0,1469855.0,1488948.0
+Vancouver,Idooble,WA,45.630695,-122.674456,98665,400000.0,web,27175,1422.5,Clark,809.0,1013523.0,1023815.0
+Viena,DubMeNow,VA,38.916336,-77.230488,22182,7516703.0,mobile,27151,839.1,Fairfax,1694.0,3311382.0,3359248.0
+Vienna,Invicta Networks,VA,38.901301,-77.265158,22182,200000.0,public_relations,27151,839.1,Fairfax,1694.0,3311382.0,3359248.0
+Waco,IonLogix Systems,TX,31.5682893,-97.1973664,76710,30000.0,software,23385,967.6,McLennan,1235.0,788231.0,797794.0
+Warrenville,ezzai - how to arabia,IL,41.817807,-88.173402,60555,45000000.0,web,13924,669.1,DuPage,533.0,613585.0,622098.0
+Washington,"ARPU, Layer 7 Technologies, NationalField, VeteranCentral.com",DC,37.09024,-95.712891,"20005, 20007, 20009",9278647.75,"social, software, advertising, enterprise",51288,15023.9,District of Columbia,1817.0,2167396.25,2203989.0
+West Chester,Lazarus Therapeutics,PA,39.959721,-75.605964,19380,100000.0,biotech,50510,640.1,Chester,1464.0,3351490.0,3390174.0
+West Hollywood,Geni,CA,34.090368,-118.393064,90069,16500000.0,web,20185,3621.8,Los Angeles,2232.0,3787112.0,3821650.0
+Weston,DateMyFamily.com,FL,26.106273,-80.41894,33327,100000.0,social,23593,61.7,Broward,538.0,1445564.0,1462099.0
+Woodbury,Cloverleaf Communications,NY,40.825655,-73.46762199999998,11797,11000000.0,public_relations,9137,692.3,Nassau,662.0,1478750.0,1504663.0
+Yardley,Three Screen Games,PA,40.245664,-74.845997,19067,500000.0,games_video,52862,647.6,Bucks,1313.0,3466816.0,3512398.0
+Yorba Linda,Gigi Hill,CA,33.87751,-117.727046,92887,4000000.0,manufacturing,20395,697.8,Orange,593.0,1483913.0,1506401.0
+Zeeland,Revetto,MI,42.8138649,-86.02384599999998,49464,20000.0,web,29060,153.4,Ottawa,635.0,1106805.0,1122482.0

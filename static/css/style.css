@@ -1,46 +1,187 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
   padding: 0;
+  position: relative;
   }
 
 #filtercontrols {
   position: absolute;
-  top: 50%;
-  left: 10px;
+  top: 62%;
+  right: 10px;
   background-color: white;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
   border-radius: 5px;
   z-index: 1000;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 #controls {
   text-align: center;
   margin: 10px 0;
 }
+
+button {
+  background-color: white;
+  color: #097ce8;
+  border: 1px solid #097ce8;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20px;
+  transition: background-color 0.3s;
+}
+button:hover {
+  background-color: #097ce8;
+  color: white;
+}
+
+button:active {
+  background-color: #097ce8;
+  color: white;
+  border: 1px solid #097ce8;
+}
+
+.button-container {
+  justify-content: center;
+  display: flex;
+  margin: 20px;
+}
+
+.button-div {
+  margin: 0 10px;
+}
+
+.inactive {
+  background-color: #097ce8;
+  color: white;
+}
+.inactive:hover {
+  background-color: #097ce8;
+  color: white;
+}
+
   
 #map {
-  height: 600px;
-  width: 90%;
+  height: 500px;
+  width: 80%;
   margin: 10px auto;
   margin-bottom: 20px;
   border: 1px solid #ddd;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+#map .legend {
+  background: white;
+  padding: 10px;
+  line-height: 18px;
+  color: #333;
+  font-size: 14px;
+  border-radius: 5px;
+}
+#map .legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+  border-radius: 2px;
+}
+#map .legend h4 {
+  margin: 0 0 5px;
+  font-weight: bold;
 }
 
 #map2 {
-  height: 600px;
+  height: 500px;
   position: relative;
-  width: 90%;
+  width: 80%;
   margin: 10px auto;
+  margin-bottom: 200px;
   border: 1px solid #ddd;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+
+#map2 .info {    /* styles the legend container with padding, bg color and border */
+  padding: 10px;
+  font-size: 12px;
+  background: white;
+  color: #333;
+  border-radius: 5px;
+}
+
+#map2 .legend k {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+  border-radius: 2px;
+}
+
+#map2 .h4 {
+  font-weight: bold;
+}
+
+#map3 {
+  height: 500px;
+  position: relative;
+  width: 80%;
+  margin: 10px auto;
+  margin-bottom: 200px;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
   
-h1 {
-  text-align: center;
-  margin: 20px 0;
+h1.large_text {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  line-height: 0.93;
+  margin-bottom: 0.5px;
+  top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: left;
+  left: 5%;
+  margin-top: 100px;
+}
+
+h2.subtitle {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  line-height: 0.93;
+  margin-bottom: 0.5px;
+  top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  text-align: left;
+  left: 5%;
+  font-weight: 590;
+  font-size: larger;
+}
+
+h3.filter {
+  font-size: 12pt;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  line-height: 0.93;
+}
+
+h3.filter-options {
+  font-size: 11pt;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 590;
 }
 
 html {
@@ -51,6 +192,44 @@ html {
   text-align: center;
 }
 
-#custom-tooltip {
-  
+.custom-tooltip {
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  padding: 10px;
+  font-size: 11pt;
+}
+
+.zoom-on-hover {
+  transition: transform .3s ease;
+}
+.zoom-on-hover:hover {
+  transform: scale(1.017);
+}
+
+.custom-marker {
+  transition: 0.8s ease-in-out;
+}
+
+#incomeChart {
+  width: 80%;
+  height: 600px;
+  padding: 20px;
+  margin: 10px auto;
+  margin-bottom: 20px;
+}
+
+#categoryChart {
+  width: 80%;
+  height: 600px;
+  padding: 20px;
+  margin: 10px auto;
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  color: black;
+  font-size: 16px;
 }

@@ -1,5 +1,5 @@
 // Initialize the map
-let myMap = L.map("map", {
+let myMap3 = L.map("map3", {
     center: [39.8283, -98.5795],
     zoom: 5
 });
@@ -7,10 +7,10 @@ let myMap = L.map("map", {
 // Add the tile layer
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(myMap);
+}).addTo(myMap3);
 
 // Create a regular LayerGroup to hold the markers
-let markers = L.layerGroup().addTo(myMap);
+let markers = L.layerGroup().addTo(myMap3);
 
 // Store the loaded data globally
 let allData = [];
@@ -46,7 +46,9 @@ function updateMarkers() {
             // Create a marker
             let marker = L.circleMarker([latitude, longitude], {
                 color: markerColor,
-                radius: 8
+                radius: 8,
+                weight: 0,
+                fillOpacity: 0.5
             }).bindPopup(`
                 <b>${row.name}</b><br>
                 Category: ${row.category_code}<br>
