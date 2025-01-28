@@ -8,7 +8,7 @@ Overview
 
 Ethical Considerations Made in the Project:
 
-  When working with start up data it is essential to consider ethical implications in order to avoid potential harm. For example, avoiding the use of any sensitive information like exact locations, proprietary funding details, and personal identifiers is extremely important in order maintain data privacy and confidentiality. In order to achieve this, our group made sure to adhere to laws such as General Data Protection Regulations and the California Consumer Privacy Act by not scraping any unlawful data and simply sourcing all data used in the project from Kaggle. These links are prived next in the Data Sources Section.
+  When working with start up data it is essential to consider ethical implications in order to avoid potential harm. For example, avoiding the use of any sensitive information like exact locations, proprietary funding details, and personal identifiers is extremely important in order maintain data privacy and confidentiality. In order to achieve this, our group made sure to adhere to laws such as General Data Protection Regulations and the California Consumer Privacy Act by not scraping any unlawful data and simply sourcing all data used in the project from Kaggle. These links are provided next in the Data Sources Section.
 
 
 Presentation
